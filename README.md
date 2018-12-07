@@ -1,5 +1,5 @@
 # Aavishkar App
-Official Androiod and Ios Application of the Technical Fest of National Institute Of Technology, Durgapur - Aavishkhar 2.0  
+Official Android and Ios Application of the Technical Fest of National Institute Of Technology, Durgapur - Aavishkhar 2.0  
 
 # Requirements:  
 1. Andriod Studio.
